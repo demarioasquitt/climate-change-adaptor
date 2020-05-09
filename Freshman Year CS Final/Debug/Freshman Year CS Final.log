@@ -1,0 +1,6 @@
+﻿  Freshman Year CS Final.cpp
+C:\Users\Demario\source\repos\Freshman Year CS Final\Freshman Year CS Final\Freshman Year CS Final.cpp(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Demario\source\repos\Freshman Year CS Final\Freshman Year CS Final\Freshman Year CS Final.cpp(58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Demario\source\repos\Freshman Year CS Final\Freshman Year CS Final\Freshman Year CS Final.cpp(67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Demario\source\repos\Freshman Year CS Final\Freshman Year CS Final\Freshman Year CS Final.cpp(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Freshman Year CS Final.vcxproj -> C:\Users\Demario\source\repos\Freshman Year CS Final\Debug\Freshman Year CS Final.exe
